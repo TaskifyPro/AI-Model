@@ -29,16 +29,16 @@ as much fast as you can.If you get any query related to that task then you can a
 We value and encourage contributions to enhance the AI-Model. Here's how you can contribute:
 
 1. Clone the repository
-Use the following command to clone the repository:
+  Use the following command to clone the repository:
 ``` git
 git clone https://github.com/TaskifyPro/AI-Model.git
 ```
 
 2. Make your contributions
-* Work on a new feature, fix an issue, or improve the documentation.
+  * Work on a new feature, fix an issue, or improve the documentation.
 
 3. Create a pull request
-Once your changes are ready, submit a pull request to merge your contributions.
+  Once your changes are ready, submit a pull request to merge your contributions.
 
 ---
 
